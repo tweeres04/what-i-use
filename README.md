@@ -6,7 +6,7 @@ Warning: Opinions below
 
 What | How | Why
 --- | --- | ---
-Text Editor | [Atom](https://atom.io/) | Open source, pluggable, hackable, by github
+Text Editor | [Visual Studio Code](https://code.visualstudio.com/) | Open source, pluggable, modern
 UI Library | [React](https://facebook.github.io/react/) | UI as a function
 Boilerplate | [create-react-app](https://github.com/facebookincubator/create-react-app) | Don't waste time configuring a build system
 CSS Framework | [Bulma](http://bulma.io) | Nice approach to layout using flexbox; clean components
